@@ -1,7 +1,7 @@
 
 
 /*  ia_lexer.c                                         */  
-/*  An intercative lexer in C.                         */ 
+/*  An interactive lexer in C.                         */ 
 /*  The aim is to allow you to press the right-arrow   */ 
 /*  key and move along an expression, watching the     */ 
 /*  various lexemes being created.                     */ 
